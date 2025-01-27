@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm P BHADRESH</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter** and **express**
+- 🌱 I’m currently learning **Flutter** and **Express**
 
 - 💬 Ask me about **Java, Javascript, Spring**
 
